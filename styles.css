@@ -1,3 +1,23 @@
 body {
     font-family: 'Source Code Pro', sans-serif;
+    padding: 10px 100px;
+}
+
+
+#colors {
+    margin: 10px auto;
+    border: 3px solid gray;
+    padding: 20px 50px;
+}
+
+#fonts {
+    margin: 10px auto;
+    border: 3px solid gray;
+    padding: 20px 50px;
+}
+
+#text-styles {
+    margin: 10px auto;
+    border: 3px solid gray;
+    padding: 20px 50px;
 }
